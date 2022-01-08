@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Renato-CS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Renato-CS/Renato-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m  Renato Sousa;
+- 👀 I’m interested in Emprego na area de desenvolvimento;
+- 🌱 I’m currently learning  Desenvolvimento em sistemas;
+- 💞️ I’m looking to collaborate  com conhecimento entre os colaboradores;
+- 📫 How to reach me  http://www.renatodevs.site/
